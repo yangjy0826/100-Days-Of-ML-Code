@@ -11,3 +11,4 @@ I have recorded each day's study in my CSDN blog (in Chinese). The links are:</p
 [Day 4/5/6: Logistic Regression](https://blog.csdn.net/m0_37622530/article/details/81476131)<br />
 [Day 7/11: KNN](https://blog.csdn.net/m0_37622530/article/details/81511122)<br />
 [Day8: Logistic Regression — Detailed Overview](https://blog.csdn.net/m0_37622530/article/details/81490249)<br />
+[Day9/10/12/14: SVM](https://blog.csdn.net/m0_37622530/article/details/81517134)<br />
