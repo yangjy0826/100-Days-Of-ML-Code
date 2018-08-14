@@ -13,3 +13,4 @@ I have recorded each day's study in my CSDN blog (in Chinese). The links are:</p
 [Day8: Logistic Regression — Detailed Overview](https://blog.csdn.net/m0_37622530/article/details/81490249)<br />
 [Day9/10/12/14: SVM](https://blog.csdn.net/m0_37622530/article/details/81517134)<br />
 [Day13: Naive Bayes Classifier](https://blog.csdn.net/m0_37622530/article/details/81612178)<br />
+[Day15: Black Box Machine Learning](https://blog.csdn.net/m0_37622530/article/details/81662137)<br />
